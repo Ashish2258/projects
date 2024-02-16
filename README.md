@@ -7,3 +7,5 @@ Why is this project valuable? 🌐💰 Well, not only does it assist homebuyers 
 Stay tuned for a detailed walkthrough of the project on my GitHub, where you can explore the code and experiment with the model yourself! 🚀🐍 Your feedback is highly appreciated as I continue to refine and enhance this innovative solution.
 
 Let's revolutionize the way we navigate the real estate landscape together! 🌟🏡
+
+https://github.com/Ashish2258/projects/assets/77842213/2feca381-b3b4-4b45-a80e-cc409842d28d
